@@ -1,4 +1,3 @@
-#!/usr/bin/env racket
 #lang racket
 
 (require (lib "string.ss" "srfi" "13"))
